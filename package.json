@@ -100,8 +100,5 @@
       "optional": true
     }
   },
-  "packageManager": "yarn@1.22.19",
-  "bugs": {
-    "url": "https://github.com/WhiskeySockets/Baileys/issues"
-  }
+  "packageManager": "yarn@1.22.19"
 }
